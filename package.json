@@ -1,9 +1,7 @@
 {
   "name": "portfolio-create-react-app",
   "version": "0.1.0",
-  "private": false,
-  "license": "MIT",
-  "homepage": "http://treyhuffine.github.io/portfolio-create-react-app",
+  "private": true,
   "dependencies": {
     "@carbon/icons-react": "^10.35.0",
     "@carbon/themes": "^10.7.0",
@@ -44,8 +42,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^2.1.1"
   }
 }
